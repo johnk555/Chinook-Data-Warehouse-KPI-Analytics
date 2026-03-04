@@ -95,3 +95,21 @@ ETL Pipeline Design
 Data Warehousing (Star Schema)
 
 Power BI
+
+📸 Dashboard Preview
+
+(Add screenshots here)
+
+📂 Repository Structure
+
+Explain folder structure clearly.
+
+🚀 Future Improvements
+
+Automate ETL scheduling
+
+Deploy to cloud environment
+
+Add incremental data loading
+
+Implement data validation checks
