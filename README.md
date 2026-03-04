@@ -1,4 +1,5 @@
 📊 Chinook Data Warehouse & KPI Analytics Project
+
 📌 Project Overview
 
 This project demonstrates the design and implementation of a complete data warehousing and analytics solution using the Chinook Database.
