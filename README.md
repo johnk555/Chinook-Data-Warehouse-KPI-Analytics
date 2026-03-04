@@ -1,3 +1,5 @@
+![Architecture Diagram](architecture.png)
+
 📊 Chinook Data Warehouse & KPI Analytics Project
 
 📌 Project Overview
