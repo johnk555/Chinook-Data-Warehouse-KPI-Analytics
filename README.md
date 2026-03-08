@@ -82,4 +82,4 @@ Power BI
 
 📸 Dashboard Preview
 
-
+![Dashboard Preview](image.png)
