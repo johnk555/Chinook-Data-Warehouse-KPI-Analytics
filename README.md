@@ -1,5 +1,3 @@
-![Architecture Diagram](architecture.png)
-
 📊 Chinook Data Warehouse & KPI Analytics Project
 
 📌 Project Overview
@@ -10,11 +8,7 @@ The objective was to transform raw transactional data into a structured Data War
 
 🎯 Business Problem
 
-Transactional databases are optimized for daily operations, not analytics.
-
-The goal of this project was to:
-
-Extract analytical insights from operational data
+The goal of this project was to extract analytical insights from operational data
 
 Design a scalable Data Warehouse
 
@@ -24,15 +18,7 @@ Enable business decision-making through dashboards
 
 🏗 Architecture
 
-Chinook Database
-⬇
-Staging Area
-⬇
-Data Warehouse (Star Schema)
-⬇
-Power BI Dashboard
-
-(We will add diagram here — explained below.)
+![Architecture Diagram](architecture.png)
 
 🧱 Data Warehouse Design
 
@@ -40,7 +26,7 @@ The solution includes:
 
 Staging tables for raw data
 
-Fact tables (e.g., Sales)
+Fact tables (Sales)
 
 Dimension tables (Customer, Artist, Album, Date, etc.)
 
@@ -90,28 +76,10 @@ Support strategic decision-making
 
 SQL
 
-Data Modeling
-
-ETL Pipeline Design
-
 Data Warehousing (Star Schema)
 
 Power BI
 
 📸 Dashboard Preview
 
-(Add screenshots here)
 
-📂 Repository Structure
-
-Explain folder structure clearly.
-
-🚀 Future Improvements
-
-Automate ETL scheduling
-
-Deploy to cloud environment
-
-Add incremental data loading
-
-Implement data validation checks
